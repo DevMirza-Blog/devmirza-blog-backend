@@ -1,5 +1,6 @@
 module.exports = ({ env }) => ({
   // ...
+  ckeditor: true,
   email: {
     config: {
       provider: 'mailgun',

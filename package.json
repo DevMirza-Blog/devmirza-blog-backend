@@ -9,6 +9,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@_sh/strapi-plugin-ckeditor": "^1.1.2",
     "@strapi/plugin-i18n": "4.3.4",
     "@strapi/plugin-seo": "^1.7.4",
     "@strapi/plugin-users-permissions": "4.3.4",
