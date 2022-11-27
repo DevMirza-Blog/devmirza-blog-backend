@@ -12,7 +12,7 @@
     "@_sh/strapi-plugin-ckeditor": "^1.1.2",
     "@strapi/plugin-i18n": "^4.4.3",
     "@strapi/plugin-seo": "^1.7.7",
-    "@strapi/plugin-users-permissions": "^4.4.3",
+    "@strapi/plugin-users-permissions": "^4.4.5",
     "@strapi/provider-email-mailgun": "^4.5.2",
     "@strapi/provider-upload-cloudinary": "^4.5.2",
     "@strapi/strapi": "^4.4.3",
