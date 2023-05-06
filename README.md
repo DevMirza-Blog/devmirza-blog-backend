@@ -1,4 +1,4 @@
 # DevMirza Blog Backend
 
-![image](https://user-images.githubusercontent.com/53424436/236195713-a44e21d7-044b-465a-8fbe-84be4e4f559c.png)
+![image](https://user-images.githubusercontent.com/53424436/236620941-cf3141fe-de7e-419f-b1b9-da6ed9e56452.png)
 
