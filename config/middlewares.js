@@ -1,5 +1,4 @@
 module.exports = [
-  "plugin::treblle.treblle",
   "strapi::errors",
   {
     name: "strapi::security",
