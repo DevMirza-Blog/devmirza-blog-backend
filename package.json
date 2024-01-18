@@ -12,7 +12,7 @@
     "@_sh/strapi-plugin-ckeditor": "^1.1.3",
     "@strapi/plugin-i18n": "^4.15.5",
     "@strapi/plugin-seo": "^1.9.8",
-    "@strapi/plugin-users-permissions": "^4.15.5",
+    "@strapi/plugin-users-permissions": "^4.17.1",
     "@strapi/strapi": "^4.15.0",
     "@treblle/strapi": "^0.0.12",
     "better-sqlite3": "^7.6.2",
