@@ -17,7 +17,7 @@
     "@treblle/strapi": "^0.0.12",
     "better-sqlite3": "^7.6.2",
     "pg": "^8.11.3",
-    "pg-connection-string": "^2.6.2",
+    "pg-connection-string": "^2.6.3",
     "pm2-windows-boot": "^1.0.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
