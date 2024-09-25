@@ -13,7 +13,7 @@
     "@strapi/plugin-i18n": "^4.25.11",
     "@strapi/plugin-seo": "^1.9.9",
     "@strapi/plugin-users-permissions": "^4.25.11",
-    "@strapi/strapi": "^5.0.0",
+    "@strapi/strapi": "^5.0.1",
     "@treblle/strapi": "^0.0.12",
     "better-sqlite3": "^7.6.2",
     "pg": "^8.13.0",
